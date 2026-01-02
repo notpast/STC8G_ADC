@@ -23,8 +23,8 @@ This project demonstrates the ADC (Analog-to-Digital Converter) functionality of
 
 | STC8G1K17   | SSD1306 |
 | :---------- | :------ |
-|  P3.2 (SDA) |  SDA    |
-|  P3.3 (SCL) |  SCL    |
+|  P3.3 (SDA) |  SDA    |
+|  P3.2 (SCL) |  SCL    |
 |  VCC        |  VCC    |
 |  GND        |  GND    |
 
