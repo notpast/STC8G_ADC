@@ -59,3 +59,9 @@ The STC8G series is based on enhanced 8051 architecture with:
 - [ISP: STC-ISP](https://www.stcmicro.com/rjxz.html)
 
 Note: This project is specifically designed for 8051-architecture STC8G microcontrollers. The code may need adjustments for other 8051 variants or different architectures.
+
+<img width="1920" height="1080" alt="vlcsnap-2026-01-03-03h11m32s297" src="https://github.com/user-attachments/assets/3dfae00b-ddde-46b0-98ff-cfc631078c77" />
+
+Video: https://www.youtube.com/watch?v=wYS1EDPwsuQ
+
+
