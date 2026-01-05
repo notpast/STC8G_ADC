@@ -41,7 +41,7 @@ This project demonstrates the ADC (Analog-to-Digital Converter) functionality of
 ## 📋 8051 Architecture Notes for STC8G
 The STC8G series is based on enhanced 8051 architecture with:
 - Single-cycle 8051 core (faster than traditional 8051)
-- Integrated 12-bit ADC (up to 12-bit resolution)
+- Integrated 10-bit ADC
 - Multiple power modes
 - Enhanced peripherals while maintaining 8051 instruction set compatibility
 
